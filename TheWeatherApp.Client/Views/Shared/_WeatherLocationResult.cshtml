@@ -1,0 +1,7 @@
+﻿@model WeatherLocationResultViewModel
+
+<h1>@Model.MessageTitle</h1>
+@if (Model.WeatherDetails != null)
+{
+    @await Html.PartialAsync("_WeatherLocationDetails", Model.WeatherDetails)
+}

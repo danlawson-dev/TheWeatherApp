@@ -1,0 +1,11 @@
+﻿<div class="row justify-content-center h-100">
+    <div class="col-xl-7 col-9 weather-location-form-container">
+        <div class="input-group">
+            <input autofocus type="text" class="form-control weather-location-form-input" placeholder="Location" aria-label="Location">
+            <button class="btn btn-primary weather-location-form-button" click-target="@Url.Action("WeatherLookup", "Home")">Search</button>
+        </div>
+        <div class="weather-location-form-result mt-3">
+            <!-- API response is shown here as a partial view (_WeatherLocationResult) -->
+        </div>
+    </div>
+</div>
