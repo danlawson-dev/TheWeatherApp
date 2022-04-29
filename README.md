@@ -1,6 +1,6 @@
 # TheWeatherApp
 
-In order to use this application, retrieve an API Key from the 'Free' tier: https://openweathermap.org/price and then update the "OpenWeatherMap:APIKey" field in TheWeatherApp.API\appsettings.json file (the current value shows as INSERT_HERE).
+In order to use this application, retrieve an API Key from the 'Free' tier: https://openweathermap.org/price and then update the "OpenWeatherMap:APIKey" field in TheWeatherApp.API/appsettings.json file (the current value shows as INSERT_HERE).
 
 ## Running the app
 
@@ -8,4 +8,4 @@ In order to use this application, retrieve an API Key from the 'Free' tier: http
 
 If running through Visual Studio, ensure both TheWeatherApp.API and TheWeatherApp.Client projects are both set as startup projects.
 
-On the other hand, if you publish to IIS, ensure the "TheWeatherApp:Endpoint" field in TheWeatherApp.Client\appsettings.json file is updated accordingly to where the TheWeatherApp.API project is hosted.
+On the other hand, if you publish to IIS, ensure the "TheWeatherApp:Endpoint" field in TheWeatherApp.Client/appsettings.json file is updated accordingly to where the TheWeatherApp.API project is hosted.
