@@ -1,0 +1,9 @@
+C:\PD\TheWeatherApp\TheWeatherApp.API\obj\Release\net6.0\PubTmp\Out\TheWeatherApp.API.exe
+C:\PD\TheWeatherApp\TheWeatherApp.API\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\PD\TheWeatherApp\TheWeatherApp.API\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\PD\TheWeatherApp\TheWeatherApp.API\obj\Release\net6.0\PubTmp\Out\TheWeatherApp.API.dll
+C:\PD\TheWeatherApp\TheWeatherApp.API\obj\Release\net6.0\PubTmp\Out\TheWeatherApp.API.deps.json
+C:\PD\TheWeatherApp\TheWeatherApp.API\obj\Release\net6.0\PubTmp\Out\TheWeatherApp.API.runtimeconfig.json
+C:\PD\TheWeatherApp\TheWeatherApp.API\obj\Release\net6.0\PubTmp\Out\TheWeatherApp.API.pdb
+C:\PD\TheWeatherApp\TheWeatherApp.API\obj\Release\net6.0\PubTmp\Out\TheWeatherApp.Shared.dll
+C:\PD\TheWeatherApp\TheWeatherApp.API\obj\Release\net6.0\PubTmp\Out\TheWeatherApp.Shared.pdb

@@ -1,9 +1,1 @@
 *.vs
-*TheWeatherApp.API/bin
-*TheWeatherApp.API/obj
-*TheWeatherApp.API.UnitTests/bin
-*TheWeatherApp.API.UnitTests/obj
-*TheWeatherApp.Client/bin
-*TheWeatherApp.Client/obj
-*TheWeatherApp.Shared/bin
-*TheWeatherApp.Shared/obj
