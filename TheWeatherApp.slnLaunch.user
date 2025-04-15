@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "The Weather App",
+    "Projects": [
+      {
+        "Path": "TheWeatherApp.API\\TheWeatherApp.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TheWeatherApp.Client\\TheWeatherApp.Client.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
