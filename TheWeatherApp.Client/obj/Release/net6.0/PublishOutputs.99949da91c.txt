@@ -1,9 +1,0 @@
-C:\PD\TheWeatherApp\Dev\TheWeatherApp.Client\obj\Release\net6.0\PubTmp\Out\TheWeatherApp.Client.exe
-C:\PD\TheWeatherApp\Dev\TheWeatherApp.Client\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
-C:\PD\TheWeatherApp\Dev\TheWeatherApp.Client\obj\Release\net6.0\PubTmp\Out\appsettings.json
-C:\PD\TheWeatherApp\Dev\TheWeatherApp.Client\obj\Release\net6.0\PubTmp\Out\TheWeatherApp.Client.dll
-C:\PD\TheWeatherApp\Dev\TheWeatherApp.Client\obj\Release\net6.0\PubTmp\Out\TheWeatherApp.Client.deps.json
-C:\PD\TheWeatherApp\Dev\TheWeatherApp.Client\obj\Release\net6.0\PubTmp\Out\TheWeatherApp.Client.runtimeconfig.json
-C:\PD\TheWeatherApp\Dev\TheWeatherApp.Client\obj\Release\net6.0\PubTmp\Out\TheWeatherApp.Client.pdb
-C:\PD\TheWeatherApp\Dev\TheWeatherApp.Client\obj\Release\net6.0\PubTmp\Out\TheWeatherApp.Shared.dll
-C:\PD\TheWeatherApp\Dev\TheWeatherApp.Client\obj\Release\net6.0\PubTmp\Out\TheWeatherApp.Shared.pdb
