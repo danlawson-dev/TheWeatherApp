@@ -7,5 +7,5 @@
 
 ### Visual Studio
 
-1) Ensure both TheWeatherApp.API and TheWeatherApp.Client projects are both set as startup projects
-2) Update the "OpenWeatherMap:APIKey" field in TheWeatherApp.API/appsettings.json file
+1) Update the "OpenWeatherMap:APIKey" field in TheWeatherApp.API/appsettings.json file
+2) Start the application
